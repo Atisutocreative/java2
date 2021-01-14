@@ -1,4 +1,4 @@
-/* Opdracht 1 */
+//* Opdracht 1 */
 // Schrijf een functie die drie parameters verwacht en deze drie getallen bij elkaar optelt en teruggeeft.
 // ---- Verwachte uitkomsten:
 // 3, 4, 5 geeft 12
